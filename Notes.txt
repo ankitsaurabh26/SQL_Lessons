@@ -1,0 +1,18 @@
+1. Properties of an ideal Database
+- Integrity
+- Availability
+- Security
+- Independent from Application
+- Concurrency
+
+2. Types of Databases:
+
+(a) Relational Databases : Tabels with rows and columns -> MySQL, Oracle, PostgreSQL etc.
+
+(b) NoSQL Databases : For unstructured or semi-structured data such as images, documents, or videos -> MongoDB
+
+(c) Column Databases : Store data in columns rather than rows, well suited for data warehousing and analytical applications -> Amazon Redshift, Google BigQuery
+
+(d) Graph Databases : 
+
+(e) Key-Value Databases
