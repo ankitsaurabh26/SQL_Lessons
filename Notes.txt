@@ -1,4 +1,5 @@
 1. Properties of an ideal Database
+
 - Integrity
 - Availability
 - Security
